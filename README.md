@@ -64,7 +64,7 @@ This is a stylish and responsive e-commerce website designed for a clothing bran
 
 ### **Contact**  
 If you have any questions or feedback, feel free to reach out:  
-- **GitHub:** [Your GitHub Profile](https://github.com/Ganesh-alt1807)   
+- **GitHub:** [My GitHub Profile](https://github.com/Ganesh-alt1807)   
 
 ---
 

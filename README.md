@@ -55,11 +55,6 @@ This is a stylish and responsive e-commerce website designed for a clothing bran
 
 ---
 
-### **Screenshots**  
-
-
----
-
 ### **Future Enhancements**  
 - Add user authentication and profiles.  
 - Enable product reviews and ratings.  

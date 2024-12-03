@@ -45,11 +45,11 @@ This is a stylish and responsive e-commerce website designed for a clothing bran
 ### **How to Use**  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/Ganesh-alt1807/e-commerce-website.git
    ```
 2. Navigate to the project directory:  
    ```bash
-   cd your-repo-name
+   cd e-commerce-website
    ```
 3. Open `index.html` in your browser to view the website.
 

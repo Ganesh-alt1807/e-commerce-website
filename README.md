@@ -45,7 +45,7 @@ This is a stylish and responsive e-commerce website designed for a clothing bran
 ### **How to Use**  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/Ganesh-alt1807/e-commerce-website.git
+   https://github.com/Ganesh-alt1807/e-commerce-website.git
    ```
 2. Navigate to the project directory:  
    ```bash
